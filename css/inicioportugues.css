@@ -1,0 +1,82 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: transparent;
+	background: #FFFFFF url("../images/img01.jpg") repeat left top;
+}
+
+#page_position_content
+{
+	margin-bottom: 291px;
+}
+
+#u1257
+{
+	z-index: 4;
+	width: 380px;
+	padding-bottom: 11px;
+}
+
+#u1258
+{
+	z-index: 5;
+	width: 413px;
+	margin-right: -10000px;
+	margin-top: 10px;
+}
+
+#u1255
+{
+	z-index: 2;
+	width: 171px;
+	margin-left: 214px;
+	margin-top: 21px;
+}
+
+#u1276-4
+{
+	z-index: 7;
+	width: 352px;
+	min-height: 50px;
+	margin-left: 14px;
+	margin-top: 105px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,97 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: transparent;
+	background: #C5C5C5 url("../images/img01.jpg") repeat-x center center;
+}
+
+#u1180
+{
+	z-index: 2;
+	width: 48px;
+	height: 33px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 454px;
+	left: 152px;
+}
+
+#u1185
+{
+	z-index: 3;
+	width: 730px;
+	position: relative;
+	margin-right: -10000px;
+	left: -313px;
+}
+
+#u1185_clip
+{
+	overflow: hidden;
+	width: 730px;
+	height: 572px;
+}
+
+#u1185_img
+{
+	margin-right: -364px;
+	margin-bottom: 2px;
+}
+
+#u1183
+{
+	z-index: 5;
+	width: 55px;
+	height: 35px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 451px;
+	left: 200px;
+}
+
+.ie #u1180,.ie #u1183
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
